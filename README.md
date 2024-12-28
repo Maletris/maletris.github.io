@@ -12,9 +12,9 @@
 
 ## 预览
 
-- [https://nianbroken.github.io/Firework_Simulator/](https://nianbroken.github.io/Firework_Simulator/ "https://nianbroken.github.io/Firework_Simulator/")
+- [https://maletris.github.io//](https://maletris.github.io/ 
+"https://maletris.github.io/")
 
-- [https://fireworks.nianbroken.top/](https://fireworks.nianbroken.top/ "https://fireworks.nianbroken.top/")
 
 ## 文字烟花
 
